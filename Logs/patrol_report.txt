@@ -1,0 +1,16 @@
+⚠️ ALERT [2026-03-26 15:33:03]: Unauthorized entry detected: poacher_vessel_01.txt
+👮 ARRESTED [2026-03-26 16:43:17]: malware_poacher.exe moved to Detention Center.
+👮 ARRESTED [2026-03-26 23:07:52]: plan_v1.txt moved to Detention Center.
+👮 ARRESTED [2026-03-26 23:10:00]: plan_v1.txt moved to Detention Center.
+👮 ARRESTED [2026-03-28 11:09:35]: map_v1.txt moved to Detention Center.
+👮 ARRESTED [2026-03-28 11:18:06]: pete_the_poacher.pdf
+   └─ FINGERPRINT: fc4482ee23da358988ecdf8ccf88827083a40101a7ace6164fe95691c48e6190
+👮 ARRESTED [2026-03-28 11:18:25]: any_name_you_want.txt
+   └─ FINGERPRINT: fc4482ee23da358988ecdf8ccf88827083a40101a7ace6164fe95691c48e6190
+👮 ARRESTED [2026-05-03 15:23:28]: manual_test.jpg
+   └─ FINGERPRINT: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+👮 ARRESTED [2026-05-03 15:49:50]: test_photo.jpg
+   └─ FINGERPRINT: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+👮 ARRESTED [2026-05-03 16:12:46]: nikon_test.jpg
+   └─ FINGERPRINT: 17307b1207eb6487d7908e9d154890b46e3d2e0192369cfd3f4c33d5a5af4035
+   └─ 📍 LOCATION: https://www.google.com/maps?q=43.46744833333334,11.885126666663888
