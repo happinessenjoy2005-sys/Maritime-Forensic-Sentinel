@@ -3,7 +3,7 @@ from PIL import Image
 from PIL.ExifTags import TAGS, GPSTAGS
 from dotenv import load_dotenv
 
-# Load secrets from .env file
+
 load_dotenv()
 TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
